@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ycorredius
-- 👀 I’m interested in 
+- 👋 Hi, I’m Shaun  
+- 👀 I’m interested in things learning and growing as a dev. 
 - 🌱 I’m currently learning frontend web development with Javscript and React. 
-- 💞️ I’m looking to collaborate on ruby projects and projects building dev tools
-- 📫 How to reach me ycorredius@gmail.com
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/ycorredius "LinkedIn")
+- I would like to get into open source projects but I am totally confused so If you could help me please do so. 
 - Checkout out what I am up to [projects](https://github.com/ycorredius/things-i-learned "This is am learning")
 
 <!---
