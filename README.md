@@ -1,4 +1,4 @@
-[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycorredius)](https://github.com/anuraghazra/github-readme-stats)
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycorredius&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Shaun  
 - 👀 I’m interested in things learning and growing as a dev. 
